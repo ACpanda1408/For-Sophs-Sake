@@ -1,4 +1,3 @@
-![image](https://github.com/ACpanda1408/For-Sophs-Sake/assets/103527608/035aa3b7-61e9-4e9c-ad00-890483c7a00f)
 # For-Sophs-Sake
 Crazy birthday present, I feel like you would unfriend me but u wouldn't dare. Enjoy the cringe!
 (attempting to read the md docs to get a grip)
