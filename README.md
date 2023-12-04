@@ -17,8 +17,8 @@ Js was being annoying when it refused to stop firing event listeners, one fires 
 ## Day two 
 Added a bit of a twist to it with this as the reference:
 ![image](https://github.com/ACpanda1408/For-Sophs-Sake/assets/103527608/b9b197fc-cab6-49c8-9d1f-40bae37ac69a)
-it semi worked and the design that turned out was like this
-![image](https://github.com/ACpanda1408/For-Sophs-Sake/assets/103527608/d9883589-6395-44ef-af34-fa6b12c4df35)
+it semi worked and the design that turned out was like this:
+![image](https://github.com/ACpanda1408/For-Sophs-Sake/assets/103527608/6208beb5-a805-4aeb-878f-0deb09e3023b)
 The whole concept works, me being a perfectionist decided to add features, many many features but my lazy ass brain decided not to do that much because it's quite annoying and actually has a high risk of it dying on me every second of the day
 So for those features i'm leaving it for another time: maybe there could be a version 2.0 - there will be no leaks be patient
 
