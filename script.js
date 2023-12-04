@@ -23,11 +23,11 @@ document.addEventListener('DOMContentLoaded', () => {
     return { array: selectedArray, arrayName: selectedArrayName };
   }
 
-  oberons = ['https://shorturl.at/gjACP', 'https://shorturl.at/dgrsZ', 'https://shorturl.at/kmnrN', 'https://shorturl.at/uJMS6', 'https://t.ly/YNsQJ', 'https://rb.gy/5wr1i', 'https://rb.gy/51z0d', 'https://rb.gy/011az', 'https://rb.gy/d2mdh', 'https://rb.gy/fyw8a'];
+  oberons = ['static/game/o1.jpg', 'static/game/o2.jpg', 'static/game/o3.jpg', 'static/game/o4.jpg', 'static/game/o5.jpg', 'static/game/o6.jpg', 'static/game/o7.jpg', 'static/game/o8.jpg', 'static/game/o9.png', 'static/game/o10.jpg'];
 
-  senjis = ['https://t.ly/ND6dM', 'https://t.ly/wuA7w', 'https://t.ly/EoAe7', 'https://t.ly/9fJkU', 'https://shorturl.at/jATY5', 'https://shorturl.at/kBXZ5', 'https://shorturl.at/ovJ09', 'https://shorturl.at/lyEW4', 'https://rb.gy/m86oc', 'https://rb.gy/3itdn'];
+  senjis = ['static/game/s1.jpg', 'static/game/s2.png', 'static/game/s3.jpg', 'static/game/s4.jpg', 'static/game/s5.jpg', 'static/game/s6.jpg', 'static/game/s7.jpg', 'static/game/s8.jpg', 'static/game/s9.jpg', 'static/game/s10.jpg'];
 
-  emiyas = ['https://rb.gy/z48b9', 'https://rb.gy/ixahn', 'https://rb.gy/y9h2b', 'https://tinyurl.com/2tr3pbbf', 'https://tinyurl.com/v89kmzkn', 'https://tinyurl.com/2p99zyms', 'https://tinyurl.com/4nbryyrh', 'https://tinyurl.com/34txcxdp', 'https://tinyurl.com/yuzekcr8', 'https://tinyurl.com/bdecd62r'];
+  emiyas = ['static/game/e1.png', 'static/game/e2.jpeg', 'static/game/e3.png', 'static/game/e4.jpg', 'static/game/e5.jpg', 'static/game/e6.jpg', 'static/game/e7.jpg', 'static/game/e8.jpg','static/game/e9.jpg', 'static/game/e10.webp'];
   
   play.addEventListener('click', startGame);
  
