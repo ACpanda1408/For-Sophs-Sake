@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     return { array: selectedArray, arrayName: selectedArrayName };
   }
 
-  oberons = ['static/game/o1.jpg', 'static/game/o2.jpg', 'static/game/o3.jpg', 'static/game/o4.jpg', 'static/game/o5.jpg', 'static/game/o6.jpg', 'static/game/o7.jpg', 'static/game/o8.jpg', 'static/game/o9.png', 'static/game/o10.jpg'];
+  oberons = ['static/game/o1.jpg', 'static/game/o3.jpg', 'static/game/o4.jpg', 'static/game/o5.jpg', 'static/game/o6.jpg', 'static/game/o7.jpg', 'static/game/o8.jpg', 'static/game/o9.png', 'static/game/o10.jpg'];
 
   senjis = ['static/game/s1.jpg', 'static/game/s2.png', 'static/game/s3.jpg', 'static/game/s4.jpg', 'static/game/s5.jpg', 'static/game/s6.jpg', 'static/game/s7.jpg', 'static/game/s8.jpg', 'static/game/s9.jpg', 'static/game/s10.jpg'];
 
